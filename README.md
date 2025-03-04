@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @othatha
-- 👀 I’m interested in creating custom websites and apps
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in web development,apps, and cyber security
+- 🌱 I have some skills with python and c++
 - 📫 How to reach me ojuluiscool@gmail.com
 - ⚡ Fun fact: Someone will eventually create a true AI and our fates may or not be determined by how it views us.
 
